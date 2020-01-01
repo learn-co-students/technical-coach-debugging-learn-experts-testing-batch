@@ -11,7 +11,7 @@ Now ask students to show you the code block that is relevant to the error messag
 
 From reading the error message, can you tell what the correct expected behavior is and what the error is? If so, great.
 
-If you’re not clear on the error AND the solution to the error from the limited snippet, ask the student to push their code with `learn save` and you can click on the fork icon in Expert Chat to go their repo
+If you’re not clear on the error AND the solution to the error from the limited snippet, ask the student to push their code with `learn save` and you can click on the fork icon in Expert Chat to go their repo.
 
 ![Student Repo Link](https://s3.amazonaws.com/learn-experts/student-repo-link.png)
 
