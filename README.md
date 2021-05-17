@@ -11,11 +11,7 @@ Now ask students to show you the code block that is relevant to the error messag
 
 From reading the error message, can you tell what the correct expected behavior is and what the error is? If so, great.
 
-If you’re not clear on the error AND the solution to the error from the limited snippet, ask the student to push their code with `learn save` and you can click on the fork icon in Expert Chat to go their repo.
-
-![Student Repo Link](https://s3.amazonaws.com/learn-experts/student-repo-link.png)
-
-If you're on dispatch and it isn't immediately clear from the code and error messages where the problem is, this is a good time to ask the student: "Would you like to pair program with a Technical Coach for 20 minutes?" If they say yes, feel free to continue working with the student while they wait.
+If you’re not clear on the error AND the solution to the error from the limited snippet, ask the student to push their code with `learn save` and share a link to the repo with you.
 
 Make sure that you understand all the steps necessary to solve this. What are the inputs and the outputs of the code? This might mean that in addition to the student's code, you will also need to read the Readme of the lab first and make sure that you know holistically what's expected.
 
